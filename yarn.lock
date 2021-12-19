@@ -2769,10 +2769,10 @@
   resolved "https://registry.yarnpkg.com/@open-draft/until/-/until-1.0.3.tgz#db9cc719191a62e7d9200f6e7bab21c5b848adca"
   integrity sha512-Aq58f5HiWdyDlFffbbSjAlv596h/cOnt2DO1w3DOC7OJ5EHs0hd/nycJfiu9RJbT6Yk6F1knnRRXNSpxoIVZ9Q==
 
-"@openapitools/openapi-generator-cli@2.4.20":
-  version "2.4.20"
-  resolved "https://registry.yarnpkg.com/@openapitools/openapi-generator-cli/-/openapi-generator-cli-2.4.20.tgz#9ac35043b2073a8346f357062e7a49df4bc941e2"
-  integrity sha512-rBJ4b+Non91qBaaIsv7euyBAY053r2COdzIDQ261NbBEWzZVRWOvcZFJ3P50GK6UWEwdCbFN6nGQxtMqCTb5iA==
+"@openapitools/openapi-generator-cli@2.4.21":
+  version "2.4.21"
+  resolved "https://registry.yarnpkg.com/@openapitools/openapi-generator-cli/-/openapi-generator-cli-2.4.21.tgz#1943bcb7a58fc33696fc33c2318d856e6398413a"
+  integrity sha512-YMCenkvusNFYGMCHnl4pAhxMjdn/w5R0bz1ayI6Pi+ASgnRF2IzPdVdOaPc9Q2fGJ52c2c4B2YdaftIzwecMTw==
   dependencies:
     "@nestjs/common" "8.2.4"
     "@nestjs/core" "8.2.4"
@@ -2780,7 +2780,7 @@
     chalk "4.1.2"
     commander "8.3.0"
     compare-versions "3.6.0"
-    concurrently "6.5.0"
+    concurrently "6.5.1"
     console.table "0.10.0"
     fs-extra "10.0.0"
     glob "7.1.6"
@@ -6295,20 +6295,6 @@ concat-stream@^1.5.0:
     inherits "^2.0.3"
     readable-stream "^2.2.2"
     typedarray "^0.0.6"
-
-concurrently@6.5.0:
-  version "6.5.0"
-  resolved "https://registry.yarnpkg.com/concurrently/-/concurrently-6.5.0.tgz#57082bfe797f93cf4a437ce54742c56823a8ea05"
-  integrity sha512-BjC0KYxXtO6EiWa46gfWYzcLULPBCb+5+VZFtzCemR/co0QSHU4mysEvmT6cnedPpQ9dtJzb+2G694o3V7TgLg==
-  dependencies:
-    chalk "^4.1.0"
-    date-fns "^2.16.1"
-    lodash "^4.17.21"
-    rxjs "^6.6.3"
-    spawn-command "^0.0.2-1"
-    supports-color "^8.1.0"
-    tree-kill "^1.2.2"
-    yargs "^16.2.0"
 
 concurrently@6.5.1:
   version "6.5.1"
