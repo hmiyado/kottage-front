@@ -2769,10 +2769,10 @@
   resolved "https://registry.yarnpkg.com/@open-draft/until/-/until-1.0.3.tgz#db9cc719191a62e7d9200f6e7bab21c5b848adca"
   integrity sha512-Aq58f5HiWdyDlFffbbSjAlv596h/cOnt2DO1w3DOC7OJ5EHs0hd/nycJfiu9RJbT6Yk6F1knnRRXNSpxoIVZ9Q==
 
-"@openapitools/openapi-generator-cli@2.4.22":
-  version "2.4.22"
-  resolved "https://registry.yarnpkg.com/@openapitools/openapi-generator-cli/-/openapi-generator-cli-2.4.22.tgz#a251f3d207414fcf5b957e0177fdc86e622eec9c"
-  integrity sha512-EnhQNM5tNW+oddq5VTFbyeu5zg+1Je2BK5lwArYMUQjZhh1CUaoShUdBYw+w/A3bfeTTSy1bt42EjFDNUZgUfA==
+"@openapitools/openapi-generator-cli@2.4.23":
+  version "2.4.23"
+  resolved "https://registry.yarnpkg.com/@openapitools/openapi-generator-cli/-/openapi-generator-cli-2.4.23.tgz#0772f8eaa45bb3eaa3780270c95982be7c1b7e08"
+  integrity sha512-kdKkpqbItv/npf8Ll/u129DpL/W6YlQB9F37K44TG0yq5/B6wnasm990ln1IkbCGCyLXR5Opt6cz1k6vn7V9lQ==
   dependencies:
     "@nestjs/common" "8.2.4"
     "@nestjs/core" "8.2.4"
@@ -2787,7 +2787,7 @@
     inquirer "8.2.0"
     lodash "4.17.21"
     reflect-metadata "0.1.13"
-    rxjs "7.5.0"
+    rxjs "7.5.1"
     tslib "2.0.3"
 
 "@pmmmwh/react-refresh-webpack-plugin@^0.5.1":
@@ -13337,10 +13337,10 @@ run-queue@^1.0.0, run-queue@^1.0.3:
   dependencies:
     aproba "^1.1.1"
 
-rxjs@7.5.0:
-  version "7.5.0"
-  resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-7.5.0.tgz#9424fbefb42bec9a8fb53a53fc64b3e5ecf90587"
-  integrity sha512-fuCKAfFawVYX0pyFlETtYnXI+5iiY9Dftgk+VdgeOq+Qyi9ZDWckHZRDaXRt5WCNbbLkmAheoSGDiceyCIKNZA==
+rxjs@7.5.1:
+  version "7.5.1"
+  resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-7.5.1.tgz#af73df343cbcab37628197f43ea0c8256f54b157"
+  integrity sha512-KExVEeZWxMZnZhUZtsJcFwz8IvPvgu4G2Z2QyqjZQzUGr32KDYuSxrEYO4w3tFFNbfLozcrKUTvTPi+E9ywJkQ==
   dependencies:
     tslib "^2.1.0"
 
