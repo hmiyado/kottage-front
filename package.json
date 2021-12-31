@@ -32,9 +32,9 @@
     "sharp": "0.29.3"
   },
   "devDependencies": {
-    "@babel/core": "7.16.5",
-    "@babel/preset-typescript": "7.16.5",
-    "@babel/runtime": "7.16.5",
+    "@babel/core": "7.16.7",
+    "@babel/preset-typescript": "7.16.7",
+    "@babel/runtime": "7.16.7",
     "@openapitools/openapi-generator-cli": "2.4.23",
     "@storybook/addon-actions": "6.4.9",
     "@storybook/addon-essentials": "6.4.9",
