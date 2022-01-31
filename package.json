@@ -36,7 +36,7 @@
     "@babel/core": "7.16.12",
     "@babel/preset-typescript": "7.16.7",
     "@babel/runtime": "7.16.7",
-    "@openapitools/openapi-generator-cli": "2.4.25",
+    "@openapitools/openapi-generator-cli": "2.4.26",
     "@storybook/addon-actions": "6.4.16",
     "@storybook/addon-essentials": "6.4.16",
     "@storybook/addon-links": "6.4.16",
