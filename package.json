@@ -68,7 +68,7 @@
     "msw": "0.36.8",
     "msw-storybook-addon": "1.6.1",
     "next-sitemap": "2.5.4",
-    "node-fetch": "3.2.1",
+    "node-fetch": "3.2.2",
     "patch-package": "6.4.7",
     "postcss": "8.4.8",
     "postcss-loader": "6.2.1",
