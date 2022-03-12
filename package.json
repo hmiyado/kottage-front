@@ -57,7 +57,7 @@
     "babel-plugin-inline-react-svg": "2.0.1",
     "babel-preset-react-app": "10.0.1",
     "concurrently": "7.0.0",
-    "eslint": "8.10.0",
+    "eslint": "8.11.0",
     "eslint-config-next": "12.1.0",
     "eslint-config-prettier": "8.5.0",
     "husky": "7.0.4",
