@@ -64,7 +64,7 @@
     "identity-obj-proxy": "3.0.0",
     "jest": "27.5.1",
     "jest-watch-typeahead": "1.0.0",
-    "lint-staged": "12.3.6",
+    "lint-staged": "12.3.7",
     "msw": "0.36.8",
     "msw-storybook-addon": "1.6.1",
     "next-sitemap": "2.5.10",
