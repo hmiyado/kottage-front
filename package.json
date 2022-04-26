@@ -33,7 +33,7 @@
     "sharp": "0.30.4"
   },
   "devDependencies": {
-    "@openapitools/openapi-generator-cli": "2.4.26",
+    "@openapitools/openapi-generator-cli": "2.5.1",
     "@storybook/addon-actions": "6.4.22",
     "@storybook/addon-essentials": "6.4.22",
     "@storybook/addon-links": "6.4.22",
