@@ -2,6 +2,7 @@
   "name": "kottage-front",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "initialize": "sh scripts/submodule/init.sh & yarn",
     "test": "jest",
@@ -42,6 +43,7 @@
     "@storybook/builder-webpack5": "6.5.7",
     "@storybook/manager-webpack5": "6.5.7",
     "@storybook/react": "6.5.7",
+    "@swc/jest": "^0.2.21",
     "@testing-library/jest-dom": "5.16.4",
     "@testing-library/react": "13.3.0",
     "@types/jest": "28.1.1",

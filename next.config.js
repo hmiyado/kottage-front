@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   reactStrictMode: true,
   i18n: {
     locales: ['ja-JP'],
