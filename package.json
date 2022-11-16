@@ -66,7 +66,7 @@
     "lint-staged": "13.0.3",
     "msw": "0.41.1",
     "msw-storybook-addon": "1.6.3",
-    "next-sitemap": "3.1.31",
+    "next-sitemap": "3.1.32",
     "patch-package": "6.5.0",
     "postcss": "8.4.19",
     "postcss-loader": "7.0.1",
