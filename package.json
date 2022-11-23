@@ -70,7 +70,7 @@
     "patch-package": "6.5.0",
     "postcss": "8.4.19",
     "postcss-loader": "7.0.1",
-    "prettier": "2.7.1",
+    "prettier": "2.8.0",
     "react-test-renderer": "18.2.0",
     "storybook-addon-swc": "1.1.9",
     "stylelint": "14.15.0",
