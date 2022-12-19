@@ -10885,10 +10885,10 @@ nested-error-stacks@^2.0.0, nested-error-stacks@^2.1.0:
   resolved "https://registry.yarnpkg.com/nested-error-stacks/-/nested-error-stacks-2.1.1.tgz#26c8a3cee6cc05fbcf1e333cd2fc3e003326c0b5"
   integrity sha512-9iN1ka/9zmX1ZvLV9ewJYEk9h7RyRRtqdK0woXcqohu8EWIerfPUjYJPg0ULy0UqP7cslmdGc8xKDJcojlKiaw==
 
-next-sitemap@3.1.42:
-  version "3.1.42"
-  resolved "https://registry.yarnpkg.com/next-sitemap/-/next-sitemap-3.1.42.tgz#f5c20f9a2cb66b75710bd7af4249041a47641af5"
-  integrity sha512-z/m440ZDCTxoE3FWbBWZLK66ZEh9e2R+j/Bm0d1Vo4PFkMi4yhWdIjWqhj//kyFyBvMYk3YWs8QQqVCCe15E6g==
+next-sitemap@3.1.43:
+  version "3.1.43"
+  resolved "https://registry.yarnpkg.com/next-sitemap/-/next-sitemap-3.1.43.tgz#f29ce7de7a7ea5cce95b36512cf06b8d30606abf"
+  integrity sha512-TshDAP69OjHwvszedQ/jBvOjzqy7Gm9NU3ZIP30X3e1qXsNVOVF5uzi9kQOI6v0uBG08QUOk9wKNSIk3zI/wjQ==
   dependencies:
     "@corex/deepmerge" "^4.0.29"
     minimist "^1.2.7"
