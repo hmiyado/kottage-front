@@ -34,7 +34,7 @@
     "react-markdown": "8.0.5",
     "rehype-highlight": "6.0.0",
     "remark-breaks": "3.0.2",
-    "swr": "2.0.3"
+    "swr": "2.0.4"
   },
   "devDependencies": {
     "@openapitools/openapi-generator-cli": "2.5.2",
