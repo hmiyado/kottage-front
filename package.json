@@ -76,7 +76,7 @@
     "stylelint": "15.6.0",
     "stylelint-config-prettier": "9.0.5",
     "stylelint-config-standard": "33.0.0",
-    "tailwindcss": "3.3.1",
+    "tailwindcss": "3.3.2",
     "tsconfig-paths-webpack-plugin": "4.0.1",
     "typescript": "5.0.4",
     "waait": "1.0.5",
