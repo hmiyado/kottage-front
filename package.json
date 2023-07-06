@@ -68,7 +68,7 @@
     "msw-storybook-addon": "1.8.0",
     "next-sitemap": "4.1.8",
     "patch-package": "7.0.0",
-    "postcss": "8.4.24",
+    "postcss": "8.4.25",
     "postcss-loader": "7.3.3",
     "prettier": "2.8.8",
     "react-test-renderer": "18.2.0",
