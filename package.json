@@ -37,7 +37,7 @@
     "swr": "2.2.0"
   },
   "devDependencies": {
-    "@openapitools/openapi-generator-cli": "2.6.0",
+    "@openapitools/openapi-generator-cli": "2.7.0",
     "@storybook/addon-actions": "7.0.27",
     "@storybook/addon-essentials": "7.0.27",
     "@storybook/addon-links": "7.0.27",
