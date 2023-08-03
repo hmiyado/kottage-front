@@ -56,7 +56,7 @@
     "concurrently": "8.2.0",
     "eslint": "8.46.0",
     "eslint-config-next": "13.4.7",
-    "eslint-config-prettier": "8.9.0",
+    "eslint-config-prettier": "8.10.0",
     "husky": "8.0.3",
     "hygen": "6.2.11",
     "identity-obj-proxy": "3.0.0",
