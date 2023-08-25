@@ -65,7 +65,7 @@
     "jest-environment-jsdom": "29.6.4",
     "jest-watch-typeahead": "2.2.2",
     "lint-staged": "14.0.1",
-    "msw": "1.2.3",
+    "msw": "1.2.4",
     "msw-storybook-addon": "1.8.0",
     "next-sitemap": "4.2.2",
     "patch-package": "8.0.0",
