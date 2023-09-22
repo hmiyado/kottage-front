@@ -7,6 +7,8 @@
 
 # testing
 /coverage
+# https://github.com/mswjs/msw/discussions/1015
+/public/mockServiceWorker.js
 
 # next.js
 /.next/
