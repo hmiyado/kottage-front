@@ -80,7 +80,7 @@
     "tailwindcss": "3.4.0",
     "tsconfig-paths-webpack-plugin": "4.1.0",
     "typescript": "5.3.3",
-    "undici": "5.27.0",
+    "undici": "5.28.2",
     "waait": "1.0.5",
     "whatwg-fetch": "3.6.20"
   },
