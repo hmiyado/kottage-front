@@ -81,7 +81,7 @@
     "tsconfig-paths-webpack-plugin": "4.1.0",
     "typescript": "5.3.3",
     "waait": "1.0.5",
-    "whatwg-fetch": "3.6.19"
+    "whatwg-fetch": "3.6.20"
   },
   "resolutions": {
     "@types/react": "18.2.46"
