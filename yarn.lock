@@ -10935,10 +10935,10 @@ msw-storybook-addon@2.0.0--canary.122.b3ed3b1.0:
   dependencies:
     is-node-process "^1.0.1"
 
-msw@2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/msw/-/msw-2.1.0.tgz#272a07ef0b66de427ee5a2cf909c8f55ad4d951c"
-  integrity sha512-Y89vzaL56fUMOLLXZmGHLRlboBQ1AXan4Rz20nJC76pRaoq4F8XQXPwyW9BW9cTY6MTrVnyHY24axSl//LJdOg==
+msw@2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/msw/-/msw-2.1.1.tgz#13e7e99c26b9d06ee43cc907b10b26253e3af852"
+  integrity sha512-09dSDm2D6wRySD9aR39n/pDJ98CLAntJ47wDvrFto+f6JGFlmiPDYARB7oM96ZjGNPxiBy5Ytz1Zzel2Orphzg==
   dependencies:
     "@bundled-es-modules/cookie" "^2.0.0"
     "@bundled-es-modules/js-levenshtein" "^2.0.1"
