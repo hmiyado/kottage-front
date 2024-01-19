@@ -1928,10 +1928,10 @@
   resolved "https://registry.yarnpkg.com/@open-draft/until/-/until-2.1.0.tgz#0acf32f470af2ceaf47f095cdecd40d68666efda"
   integrity sha512-U69T3ItWHvLwGg5eJ0n3I62nWuE6ilHlmz7zM0npLBRvPRd7e6NYmg54vvRtP5mZG7kZqZCFVdsTWo7BPtBujg==
 
-"@openapitools/openapi-generator-cli@2.8.2":
-  version "2.8.2"
-  resolved "https://registry.yarnpkg.com/@openapitools/openapi-generator-cli/-/openapi-generator-cli-2.8.2.tgz#26be1a3ce70fa68d0417c420875e9fbd34f83381"
-  integrity sha512-695rpaMkfpu7rb//8uIiJ8sUORI2ILWHrTnmdPYWtmw17d2k90xRBt+cdxqTzDfITbICs8hVidU9i/s3NXUGrw==
+"@openapitools/openapi-generator-cli@2.9.0":
+  version "2.9.0"
+  resolved "https://registry.yarnpkg.com/@openapitools/openapi-generator-cli/-/openapi-generator-cli-2.9.0.tgz#9e8255bbadc3746386cb4cb99ae86e8f34dcb130"
+  integrity sha512-KQpftKeiMoH5aEI/amOVLFGkGeT3DyA7Atj7v7l8xT3O9xnIUpoDmMg0WBTEh+NHxEwEAITQNDzr+JLjkXVaKw==
   dependencies:
     "@nestjs/axios" "3.0.1"
     "@nestjs/common" "10.3.0"
@@ -1947,7 +1947,7 @@
     glob "7.2.3"
     inquirer "8.2.6"
     lodash "4.17.21"
-    reflect-metadata "0.2.1"
+    reflect-metadata "0.1.13"
     rxjs "7.8.1"
     tslib "2.6.2"
 
@@ -12528,10 +12528,10 @@ redent@^3.0.0:
     indent-string "^4.0.0"
     strip-indent "^3.0.0"
 
-reflect-metadata@0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/reflect-metadata/-/reflect-metadata-0.2.1.tgz#8d5513c0f5ef2b4b9c3865287f3c0940c1f67f74"
-  integrity sha512-i5lLI6iw9AU3Uu4szRNPPEkomnkjRTaVt9hy/bn5g/oSzekBSMeLZblcjP74AW0vBabqERLLIrz+gR8QYR54Tw==
+reflect-metadata@0.1.13:
+  version "0.1.13"
+  resolved "https://registry.yarnpkg.com/reflect-metadata/-/reflect-metadata-0.1.13.tgz#67ae3ca57c972a2aa1642b10fe363fe32d49dc08"
+  integrity sha512-Ts1Y/anZELhSsjMcU605fU9RE4Oi3p5ORujwbIKXfWa+0Zxs510Qrmrce5/Jowq3cHSZSJqBjypxmHarc+vEWg==
 
 reflect.getprototypeof@^1.0.4:
   version "1.0.4"
