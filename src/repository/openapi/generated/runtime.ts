@@ -284,16 +284,12 @@ export function querystring(params: HTTPQuery, prefix: string = ''): string {
         return `${encodeURIComponent(fullKey)}=${multiValue}`
       }
       if (value instanceof Date) {
-        return `${encodeURIComponent(fullKey)}=${encodeURIComponent(
-          value.toISOString(),
-        )}`
+        return `${encodeURIComponent(fullKey)}=${encodeURIComponent(value.toISOString())}`
       }
       if (value instanceof Object) {
         return querystring(value as HTTPQuery, fullKey)
       }
-      return `${encodeURIComponent(fullKey)}=${encodeURIComponent(
-        String(value),
-      )}`
+      return `${encodeURIComponent(fullKey)}=${encodeURIComponent(String(value))}`
     })
     .filter((part) => part.length > 0)
     .join('&')
