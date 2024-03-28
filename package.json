@@ -50,8 +50,8 @@
     "@testing-library/jest-dom": "6.4.2",
     "@testing-library/react": "14.2.1",
     "@types/jest": "29.5.12",
-    "@types/react": "18.2.60",
-    "@types/react-dom": "18.2.19",
+    "@types/react": "18.2.73",
+    "@types/react-dom": "18.2.23",
     "@types/react-test-renderer": "18.0.7",
     "autoprefixer": "10.4.17",
     "concurrently": "8.2.2",
@@ -86,7 +86,7 @@
     "whatwg-fetch": "3.6.20"
   },
   "resolutions": {
-    "@types/react": "18.2.60"
+    "@types/react": "18.2.73"
   },
   "lint-staged": {
     "!(kottage)/**/*": "prettier --write --ignore-unknown",
