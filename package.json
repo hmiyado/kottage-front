@@ -80,7 +80,7 @@
     "stylelint-config-standard": "36.0.0",
     "tailwindcss": "3.4.1",
     "tsconfig-paths-webpack-plugin": "4.1.0",
-    "typescript": "5.3.3",
+    "typescript": "5.6.2",
     "undici": "5.28.4",
     "waait": "1.0.5",
     "whatwg-fetch": "3.6.20"
