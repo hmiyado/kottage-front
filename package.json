@@ -27,8 +27,8 @@
     "feed": "4.2.2",
     "highlight.js": "11.10.0",
     "next": "14.2.13",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
     "react-markdown": "9.0.1",
     "rehype-highlight": "7.0.0",
     "remark-breaks": "4.0.0",
@@ -50,8 +50,8 @@
     "@testing-library/jest-dom": "6.5.0",
     "@testing-library/react": "14.3.1",
     "@types/jest": "29.5.13",
-    "@types/react": "18.2.60",
-    "@types/react-dom": "18.2.19",
+    "@types/react": "18.3.11",
+    "@types/react-dom": "18.3.1",
     "@types/react-test-renderer": "18.3.0",
     "autoprefixer": "10.4.20",
     "concurrently": "8.2.2",
@@ -72,7 +72,7 @@
     "postcss": "8.4.35",
     "postcss-loader": "8.1.1",
     "prettier": "3.2.5",
-    "react-test-renderer": "18.2.0",
+    "react-test-renderer": "18.3.1",
     "storybook": "next",
     "storybook-addon-swc": "1.2.0",
     "stylelint": "16.2.1",
@@ -86,7 +86,7 @@
     "whatwg-fetch": "3.6.20"
   },
   "resolutions": {
-    "@types/react": "18.2.60"
+    "@types/react": "18.3.11"
   },
   "lint-staged": {
     "!(kottage)/**/*": "prettier --write --ignore-unknown",
