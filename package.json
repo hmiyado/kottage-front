@@ -26,7 +26,7 @@
   "dependencies": {
     "feed": "4.2.2",
     "highlight.js": "11.10.0",
-    "next": "14.2.13",
+    "next": "14.2.15",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-markdown": "9.0.1",
