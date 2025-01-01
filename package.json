@@ -71,7 +71,7 @@
     "patch-package": "8.0.0",
     "postcss": "8.4.35",
     "postcss-loader": "8.1.1",
-    "prettier": "3.2.5",
+    "prettier": "3.4.2",
     "react-test-renderer": "18.2.0",
     "storybook": "next",
     "storybook-addon-swc": "1.2.0",
