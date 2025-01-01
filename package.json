@@ -47,7 +47,7 @@
     "@storybook/manager-webpack5": "6.5.16",
     "@storybook/nextjs": "^7.3.0",
     "@storybook/react": "7.6.17",
-    "@testing-library/jest-dom": "6.5.0",
+    "@testing-library/jest-dom": "6.6.3",
     "@testing-library/react": "14.3.1",
     "@types/jest": "29.5.14",
     "@types/react": "18.3.18",
