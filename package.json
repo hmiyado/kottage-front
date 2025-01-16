@@ -81,7 +81,7 @@
     "tailwindcss": "3.4.17",
     "tsconfig-paths-webpack-plugin": "4.2.0",
     "typescript": "5.7.3",
-    "undici": "5.28.4",
+    "undici": "7.2.3",
     "waait": "1.0.5",
     "whatwg-fetch": "3.6.20"
   },
