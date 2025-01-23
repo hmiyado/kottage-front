@@ -69,7 +69,7 @@
     "msw-storybook-addon": "2.0.0--canary.122.b3ed3b1.0",
     "next-sitemap": "4.2.3",
     "patch-package": "8.0.0",
-    "postcss": "8.4.49",
+    "postcss": "8.5.1",
     "postcss-loader": "8.1.1",
     "prettier": "3.4.2",
     "react-test-renderer": "18.3.1",
