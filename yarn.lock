@@ -7123,10 +7123,10 @@ regjsparser@^0.12.0:
   dependencies:
     jsesc "~3.0.2"
 
-rehype-highlight@7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/rehype-highlight/-/rehype-highlight-7.0.0.tgz#f2fd0eaebea7d4d4ce2fca2e8d9e3aea9441aefc"
-  integrity sha512-QtobgRgYoQaK6p1eSr2SD1i61f7bjF2kZHAQHxeCHAuJf7ZUDMvQ7owDq9YTkmar5m5TSUol+2D3bp3KfJf/oA==
+rehype-highlight@7.0.2:
+  version "7.0.2"
+  resolved "https://registry.yarnpkg.com/rehype-highlight/-/rehype-highlight-7.0.2.tgz#997e05e3a336853f6f6b2cfc450c5dad0f960b07"
+  integrity sha512-k158pK7wdC2qL3M5NcZROZ2tR/l7zOzjxXd5VGdcfIyoijjQqpHd3JKtYSBDpDZ38UI2WJWuFAtkMDxmx5kstA==
   dependencies:
     "@types/hast" "^3.0.0"
     hast-util-to-text "^4.0.0"
