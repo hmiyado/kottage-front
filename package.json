@@ -30,7 +30,7 @@
     "react-markdown": "9.0.3",
     "rehype-highlight": "7.0.0",
     "remark-breaks": "4.0.0",
-    "swr": "2.3.0"
+    "swr": "2.3.2"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.22.10",
