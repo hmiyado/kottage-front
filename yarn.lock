@@ -7371,10 +7371,10 @@ unbox-primitive@^1.1.0:
     has-symbols "^1.1.0"
     which-boxed-primitive "^1.1.1"
 
-undici@7.6.0:
-  version "7.6.0"
-  resolved "https://registry.yarnpkg.com/undici/-/undici-7.6.0.tgz#a57f69b6710027b7ef7fed3654a6d05e788115e0"
-  integrity sha512-gaFsbThjrDGvAaD670r81RZro/s6H2PVZF640Qn0p5kZK+/rim7/mmyfp2W7VB5vOMaFM8vuFBJUaMlaZTYHlA==
+undici@7.7.0:
+  version "7.7.0"
+  resolved "https://registry.yarnpkg.com/undici/-/undici-7.7.0.tgz#6cee2db03d6c229d3de0dbe050fbcd4a4c8a3632"
+  integrity sha512-tZ6+5NBq4KH35rr46XJ2JPFKxfcBlYNaqLF/wyWIO9RMHqqU/gx/CLB1Y2qMcgB8lWw/bKHa7qzspqCN7mUHvA==
 
 unicode-canonical-property-names-ecmascript@^2.0.0:
   version "2.0.1"
