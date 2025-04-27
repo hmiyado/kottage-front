@@ -1586,10 +1586,10 @@
   resolved "https://registry.yarnpkg.com/@open-draft/until/-/until-2.1.0.tgz#0acf32f470af2ceaf47f095cdecd40d68666efda"
   integrity sha512-U69T3ItWHvLwGg5eJ0n3I62nWuE6ilHlmz7zM0npLBRvPRd7e6NYmg54vvRtP5mZG7kZqZCFVdsTWo7BPtBujg==
 
-"@openapitools/openapi-generator-cli@2.19.1":
-  version "2.19.1"
-  resolved "https://registry.yarnpkg.com/@openapitools/openapi-generator-cli/-/openapi-generator-cli-2.19.1.tgz#5dc404dc567b5320b8892a78391f908223d70a56"
-  integrity sha512-APP3EPI/m7bg220qS+7UAFiyLJFbNCjlsEEjrP2sLmW4Za44U8e3Lb2zDy3sbvJvIUnpYWe+hu9RbrxrPP9djQ==
+"@openapitools/openapi-generator-cli@2.20.0":
+  version "2.20.0"
+  resolved "https://registry.yarnpkg.com/@openapitools/openapi-generator-cli/-/openapi-generator-cli-2.20.0.tgz#0f25b0c64dc67b47845490ead9ba9ab90f04d642"
+  integrity sha512-Amtd7/9Lodaxnmfsru8R5n0CW9lyWOI40UsppGMfuNFkFFbabq51/VAJFsOHkNnDRwVUc7AGKWjN5icphDGlTQ==
   dependencies:
     "@nestjs/axios" "4.0.0"
     "@nestjs/common" "11.0.20"
