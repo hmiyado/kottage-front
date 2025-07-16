@@ -1494,10 +1494,10 @@
     "@emnapi/runtime" "^1.4.3"
     "@tybys/wasm-util" "^0.9.0"
 
-"@nestjs/axios@4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@nestjs/axios/-/axios-4.0.0.tgz#520ff7c6238e635658fe334ee62db9d1b9c5546f"
-  integrity sha512-1cB+Jyltu/uUPNQrpUimRHEQHrnQrpLzVj6dU3dgn6iDDDdahr10TgHFGTmw5VuJ9GzKZsCLDL78VSwJAs/9JQ==
+"@nestjs/axios@4.0.1":
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/@nestjs/axios/-/axios-4.0.1.tgz#7ff73f47727b67dc04410ac6e9b3329401ebbb65"
+  integrity sha512-68pFJgu+/AZbWkGu65Z3r55bTsCPlgyKaV4BSG8yUAD72q1PPuyVRgUwFv6BxdnibTUHlyxm06FmYWNC+bjN7A==
 
 "@nestjs/common@11.1.3":
   version "11.1.3"
@@ -1639,12 +1639,12 @@
   resolved "https://registry.yarnpkg.com/@open-draft/until/-/until-2.1.0.tgz#0acf32f470af2ceaf47f095cdecd40d68666efda"
   integrity sha512-U69T3ItWHvLwGg5eJ0n3I62nWuE6ilHlmz7zM0npLBRvPRd7e6NYmg54vvRtP5mZG7kZqZCFVdsTWo7BPtBujg==
 
-"@openapitools/openapi-generator-cli@2.21.1":
-  version "2.21.1"
-  resolved "https://registry.yarnpkg.com/@openapitools/openapi-generator-cli/-/openapi-generator-cli-2.21.1.tgz#41fa611214469bf4e4f67b4c81f5ea3fbedc99e4"
-  integrity sha512-y9nWEHHVELVobuSJ79rEvF2u+VY/qNy09U4tU9NdPvhxHhblLsznM3XfYO9gSWCNT3cbcFHe+fIJmByY+OipEQ==
+"@openapitools/openapi-generator-cli@2.21.2":
+  version "2.21.2"
+  resolved "https://registry.yarnpkg.com/@openapitools/openapi-generator-cli/-/openapi-generator-cli-2.21.2.tgz#b72b1546363b72562d43cc2f660ee1f6451f61aa"
+  integrity sha512-5CwbNXURKuW5yNJ09SiRuHcXfqN5bqO9SJJj6Nk638w2WUtFNWY0dZOn4UQSW1CeMRFmEIoZfH7i2fYReZPX3Q==
   dependencies:
-    "@nestjs/axios" "4.0.0"
+    "@nestjs/axios" "4.0.1"
     "@nestjs/common" "11.1.3"
     "@nestjs/core" "11.1.3"
     "@nuxtjs/opencollective" "0.3.2"
