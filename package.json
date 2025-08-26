@@ -24,7 +24,7 @@
   "dependencies": {
     "feed": "5.1.0",
     "highlight.js": "11.11.1",
-    "next": "15.5.1",
+    "next": "15.5.2",
     "react": "19.1.1",
     "react-dom": "19.1.1",
     "react-markdown": "10.1.0",
@@ -46,7 +46,7 @@
     "@vitejs/plugin-react": "^5.0.0",
     "concurrently": "9.2.1",
     "eslint": "9.34.0",
-    "eslint-config-next": "15.5.1",
+    "eslint-config-next": "15.5.2",
     "eslint-config-prettier": "10.1.8",
     "husky": "9.1.7",
     "hygen": "6.2.11",
