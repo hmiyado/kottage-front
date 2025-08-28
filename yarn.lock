@@ -1661,10 +1661,10 @@
     rxjs "7.8.2"
     tslib "2.8.1"
 
-"@rolldown/pluginutils@1.0.0-beta.32":
-  version "1.0.0-beta.32"
-  resolved "https://registry.yarnpkg.com/@rolldown/pluginutils/-/pluginutils-1.0.0-beta.32.tgz#40a51db68a3c967183a9d58c5f5179adf6214cce"
-  integrity sha512-QReCdvxiUZAPkvp1xpAg62IeNzykOFA6syH2CnClif4YmALN1XKpB39XneL80008UbtMShthSVDKmrx05N1q/g==
+"@rolldown/pluginutils@1.0.0-beta.34":
+  version "1.0.0-beta.34"
+  resolved "https://registry.yarnpkg.com/@rolldown/pluginutils/-/pluginutils-1.0.0-beta.34.tgz#4421645c676926faa4574940d72fa7ce0ec7d419"
+  integrity sha512-LyAREkZHP5pMom7c24meKmJCdhf2hEyvam2q0unr3or9ydwDL+DJ8chTF6Av/RFPb3rH8UFBdMzO5MxTZW97oA==
 
 "@rollup/rollup-android-arm-eabi@4.43.0":
   version "4.43.0"
@@ -2198,14 +2198,14 @@
   integrity sha512-WmoN8qaIAo7WTYWbAZuG8PYEhn5fkz7dZrqTBZ7dtt//lL2Gwms1IcnQ5yHqjDfX8Ft5j4YzDM23f87zBfDe9g==
 
 "@vitejs/plugin-react@^5.0.0":
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/@vitejs/plugin-react/-/plugin-react-5.0.1.tgz#02c074f3fd9a82e4676c51e0fe9603a26ca614a3"
-  integrity sha512-DE4UNaBXwtVoDJ0ccBdLVjFTWL70NRuWNCxEieTI3lrq9ORB9aOCQEKstwDXBl87NvFdbqh/p7eINGyj0BthJA==
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/@vitejs/plugin-react/-/plugin-react-5.0.2.tgz#3b5d73fc0e4370a0fafe27154d2c208e2bca8f71"
+  integrity sha512-tmyFgixPZCx2+e6VO9TNITWcCQl8+Nl/E8YbAyPVv85QCc7/A3JrdfG2A8gIzvVhWuzMOVrFW1aReaNxrI6tbw==
   dependencies:
     "@babel/core" "^7.28.3"
     "@babel/plugin-transform-react-jsx-self" "^7.27.1"
     "@babel/plugin-transform-react-jsx-source" "^7.27.1"
-    "@rolldown/pluginutils" "1.0.0-beta.32"
+    "@rolldown/pluginutils" "1.0.0-beta.34"
     "@types/babel__core" "^7.20.5"
     react-refresh "^0.17.0"
 
@@ -2711,10 +2711,15 @@ caniuse-lite@^1.0.30001579:
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001700.tgz#26cd429cf09b4fd4e745daf4916039c794d720f6"
   integrity sha512-2S6XIXwaE7K7erT8dY+kLQcpa5ms63XlRkMkReXjle+kf6c5g38vyMl+Z5y8dSxOFDhcFe+nxnn261PLxBSQsQ==
 
-caniuse-lite@^1.0.30001733, caniuse-lite@^1.0.30001735:
+caniuse-lite@^1.0.30001733:
   version "1.0.30001735"
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001735.tgz#ba658fd3fd24a4106fd68d5ce472a2c251494dbe"
   integrity sha512-EV/laoX7Wq2J9TQlyIXRxTJqIw4sxfXS4OYgudGxBYRuTv0q7AM6yMEpU/Vo1I94thg9U6EZ2NfZx9GJq83u7w==
+
+caniuse-lite@^1.0.30001735:
+  version "1.0.30001737"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001737.tgz#8292bb7591932ff09e9a765f12fdf5629a241ccc"
+  integrity sha512-BiloLiXtQNrY5UyF0+1nSJLXUENuhka2pzy2Fx5pGxqavdrxSCW4U6Pn/PoG3Efspi2frRbHpBV2XsrPE6EDlw==
 
 ccount@^2.0.0:
   version "2.0.1"
@@ -3257,10 +3262,15 @@ ejs@^3.1.6:
   dependencies:
     jake "^10.8.5"
 
-electron-to-chromium@^1.5.199, electron-to-chromium@^1.5.204:
+electron-to-chromium@^1.5.199:
   version "1.5.205"
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.205.tgz#02b538ce3d0e6ef2016458b49309fd1f5be2a2a7"
   integrity sha512-gBtbT7IgOHu7CwdtIiXwbNRD1l6oG6GAyanmwMCLVqaoGy92Jfe1dSHLiSj8xUEZNxOTIVlXuaAalMMD+S4y0w==
+
+electron-to-chromium@^1.5.204:
+  version "1.5.211"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.211.tgz#749317bf9cf894c06f67980940cf8074e5eb08ca"
+  integrity sha512-IGBvimJkotaLzFnwIVgW9/UD/AOJ2tByUmeOrtqBfACSbAw5b1G0XpvdaieKyc7ULmbwXVx+4e4Be8pOPBrYkw==
 
 emoji-regex@^10.3.0:
   version "10.4.0"
